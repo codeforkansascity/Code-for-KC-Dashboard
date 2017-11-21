@@ -9,12 +9,13 @@ We are building a tool that allow users to collect, search, and view project inf
 * Noah Rhee - front or back end developer depending on what other developer is recruited
 
 # Team Members Needed
-* Front end developer
-* Back end developer - (Noah Rhee Will be either front or back end depending)
-* Quality Assurance (experience a plus)
+* Front end developer - considering using Angular
+* Back end developer - considering using Python
+* Database Engineer - considering using postgresql
+
 
 # Bonus Team Members Desired
-* Database Engineer (NTH)
-* Mobile developer (NTH)
-* Designer (NTH)
-* Documentarian (NTH)
+* Mobile developer
+* Designer
+* Documentarian
+* Quality Assurance
