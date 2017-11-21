@@ -19,3 +19,4 @@ We are building a tool that allow users to collect, search, and view project inf
 * Designer
 * Documentarian
 * Quality Assurance
+* Anyone interested!
