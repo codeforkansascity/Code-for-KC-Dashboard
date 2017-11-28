@@ -9,7 +9,7 @@ We are building a tool that allow users to collect, search, and view project inf
 * Noah Rhee - front or back end developer depending on what other developer is recruited
 
 # Team Members Needed
-* Front end developer - considering using Angular
+* Front end developer - considering using React
 * Back end developer - considering using Python
 * Database Engineer - considering using postgresql
 
