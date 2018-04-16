@@ -3,20 +3,14 @@
 # Code-for-KC-Dashboard
 We are building a tool that allow users to collect, search, and view project information and member information within Code for KC (such as automated attendance tracking, searching for members by skill, automated project status updates.)
 
+We recently obtained a sandbox instance of Code for Philly's tool, laddr (https://github.com/CodeForPhilly/laddr/blob/develop/README.md) and are testing to see if it can be adapted/updated for use by our brigade.
+
 # The Team
-* Stacy Griffith, Katherine Hambrick, Aaron Deacon - Key Stakeholders
-* Josh Moreno - Project Manager/Business Analyst
-* Noah Rhee - front or back end developer depending on what other developer is recruited
+* Stakeholders - Stacy Griffith,  Aaron Deacon
+* Project Manager/Business Analyst - Josh Moreno
+* Project Management/Developer - Matt Wagoner
+* Developers - Noah Rhee, Caleb Hillhouse, Reggie Brown, Lisa Ciaccio, Noah Rhee, Branford Harris, Lia Vang, Ray, Carlo Santos, 
+* UX - Chad O'Bryhim
 
 # Team Members Needed
-* Front end developer - considering using React
-* Back end developer - considering using Python
-* Database Engineer - considering using postgresql
-
-
-# Bonus Team Members Desired
-* Mobile developer
-* Designer
-* Documentarian
-* Quality Assurance
-* Anyone interested!
+* currently testing and not in need of additional members
