@@ -9,7 +9,7 @@ We recently obtained a sandbox instance of Code for Philly's tool, laddr (https:
 * Stakeholders - Stacy Griffith,  Aaron Deacon
 * Project Manager/Business Analyst - Josh Moreno
 * Project Management/Developer - Matt Wagoner
-* Developers - Noah Rhee, Caleb Hillhouse, Reggie Brown, Lisa Ciaccio, Noah Rhee, Branford Harris, Lia Vang, Ray, Carlo Santos, Jay-R
+* Developers - Noah Rhee, Caleb Hillhouse, Reggie Brown, Lisa Ciaccio, Noah Rhee, Branford Harris, Lia Vang, Ray, Carlo Santos, Jay-R, John Winne
 * UX - Chad O'Bryhim
 
 # Team Members Needed
